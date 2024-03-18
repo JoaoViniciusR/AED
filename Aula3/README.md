@@ -1,0 +1,5 @@
+Fácil de adicionar e remover elementos: LinkedList é uma estrutura de dados que permite inserir e remover elementos de forma eficiente em qualquer posição da lista.
+Isso é importante para sistemas de gerenciamento de tarefas porque as tarefas podem ser adicionadas e removidas com frequência, e o LinkedList fornece uma maneira conveniente de lidar com essas operações.
+LinkedList implementa a interface Queue, então você pode usar o método removeFirst() para remover o primeiro elemento da lista. Esta é uma operação eficiente com complexidade O(1).
+Flexibilidade e facilidade de uso: LinkedList é uma estrutura de dados flexível que oferece uma ampla variedade de maneiras de manipular itens de lista.
+Em resumo, o LinkedList foi escolhido porque atende às necessidades de um sistema de gerenciamento de tarefas e fornece uma combinação de eficiência, flexibilidade e facilidade de uso que permite que tarefas sejam adicionadas, removidas e exibidas de forma eficiente.
